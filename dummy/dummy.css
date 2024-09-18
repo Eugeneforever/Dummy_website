@@ -1,0 +1,25 @@
+.list {
+    text-align: left;
+    align-items: baseline;
+    background-color: lightgreen;
+    padding: auto;
+    border: 1px solid;
+}
+ul {
+    word-spacing: 20px;
+    
+}
+.example {
+    border-top: 20px;
+}
+article{
+    display: flex;
+    flex-direction: column;
+
+}
+footer{
+    background-color: brown;
+    padding: 20px;
+    text-align: center;
+    vertical-align: bottom;
+}
